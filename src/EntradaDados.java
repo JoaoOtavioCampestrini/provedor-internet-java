@@ -17,7 +17,6 @@ public class EntradaDados {
     char cor = scanner.next().charAt(0);
 
 
-
     // Número
     System.out.print("\nInforme sua idade:");
     int idade = scanner.nextInt();
@@ -26,8 +25,6 @@ public class EntradaDados {
     // Altura
     System.out.print("\nInfome sua altura:");
     double altura = scanner.nextDouble();
-
-
 
 
     // Processamento
